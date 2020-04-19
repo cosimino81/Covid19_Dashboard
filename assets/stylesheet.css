@@ -1,12 +1,12 @@
 .banner {
     height: 75px;
     margin: 0px -10px 10px;
-    background-color: rgb(224, 224, 235);
+    background-color: rgb(64, 64, 64);
     border-radius: 2px;
 }
 
 .banner h2{
-    color: black;
+    color: white;
     padding-top: 10px;
     margin-left: 2%;
     display: inline-block;
